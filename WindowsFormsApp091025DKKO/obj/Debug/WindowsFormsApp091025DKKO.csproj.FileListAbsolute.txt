@@ -1,0 +1,10 @@
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\bin\Debug\WindowsFormsApp091025DKKO.exe.config
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\bin\Debug\WindowsFormsApp091025DKKO.exe
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\bin\Debug\WindowsFormsApp091025DKKO.pdb
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.csproj.AssemblyReference.cache
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.Form1.resources
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.Properties.Resources.resources
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.csproj.GenerateResource.cache
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.csproj.CoreCompileInputs.cache
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.exe
+C:\Users\dogue\source\repos\WindowsFormsApp091025DKKO\obj\Debug\WindowsFormsApp091025DKKO.pdb
