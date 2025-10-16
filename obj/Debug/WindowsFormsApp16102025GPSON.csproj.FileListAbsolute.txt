@@ -1,0 +1,10 @@
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\bin\Debug\WindowsFormsApp16102025GPSON.exe.config
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\bin\Debug\WindowsFormsApp16102025GPSON.exe
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\bin\Debug\WindowsFormsApp16102025GPSON.pdb
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.csproj.AssemblyReference.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.Form1.resources
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.Properties.Resources.resources
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.csproj.GenerateResource.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.csproj.CoreCompileInputs.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.exe
+C:\Users\dogue\source\repos\WindowsFormsApp16102025GPSON\obj\Debug\WindowsFormsApp16102025GPSON.pdb
