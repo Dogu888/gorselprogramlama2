@@ -1,0 +1,9 @@
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\bin\Debug\WindowsFormsApp16102025gpyk.exe.config
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\bin\Debug\WindowsFormsApp16102025gpyk.exe
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\bin\Debug\WindowsFormsApp16102025gpyk.pdb
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.csproj.AssemblyReference.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.Properties.Resources.resources
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.csproj.GenerateResource.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.csproj.CoreCompileInputs.cache
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.exe
+C:\Users\dogue\source\repos\WindowsFormsApp16102025gpyk\obj\Debug\WindowsFormsApp16102025gpyk.pdb
